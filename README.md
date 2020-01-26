@@ -1,4 +1,4 @@
-# Deep Violance Detection
+# Deep Violence Detection
 
 This is a repository for the violence Detection with 3D Convolutional Nets and data acquisition 
 
