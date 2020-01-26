@@ -1,7 +1,10 @@
 # Deep Violance Detection
 
-This is a repo for the violence Detection with 3D Convolutional Nets and data acquisition 
+This is a repository for the violence Detection with 3D Convolutional Nets and data acquisition 
 
+Spatiotemporal feature learning using deep 3-dimensional convolution networks (3D ConvNets) trained on a large scale supervised video dataset
+ - Used the pre trained weights of sports 1M, fine tuned the model using UCF101 dataset
+ - Tested on the Hockey Fight Dataset(96.5% accuracy) and Movies Dataset (98.6% accuracy)
 
 ## Important Links
 
